@@ -1,6 +1,6 @@
 package grafana_data_feeder.service;
 
-public interface BankService {
+public interface Service {
 
     void loadData();
 
